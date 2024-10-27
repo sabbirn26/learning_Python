@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="919eb399-2a42-4291-9307-f0b36d757935" name="Changes" comment="- GitHub commit and push check">
-      <change afterPath="$PROJECT_DIR$/veriables.py" afterDir="false" />
+    <list default="true" id="919eb399-2a42-4291-9307-f0b36d757935" name="Changes" comment="- Variables example added">
+      <change afterPath="$PROJECT_DIR$/type_casting.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,21 +28,21 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "sabbirn26"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sabbirn26&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/sabbirn26/learning_Python.git",
-    "accountId": "12c561ff-1d87-40fa-b833-827bb08992d6"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sabbirn26/learning_Python.git&quot;,
+    &quot;accountId&quot;: &quot;12c561ff-1d87-40fa-b833-827bb08992d6&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2nyzlgp6v2qsOCW2JT1AvI71VbE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -55,6 +55,7 @@
   "keyToString": {
     "Python.main.executor": "Run",
     "Python.print_comment.executor": "Run",
+    "Python.type_casting.executor": "Run",
     "Python.veriables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -102,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729963424809</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="- Variables example added">
+      <option name="closed" value="true" />
+      <created>1729964745883</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729964745883</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +129,7 @@
     <MESSAGE value="- Initial Commit" />
     <MESSAGE value="- Minor changes" />
     <MESSAGE value="- GitHub commit and push check" />
-    <option name="LAST_COMMIT_MESSAGE" value="- GitHub commit and push check" />
+    <MESSAGE value="- Variables example added" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Variables example added" />
   </component>
 </project>
