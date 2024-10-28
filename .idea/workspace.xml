@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="919eb399-2a42-4291-9307-f0b36d757935" name="Changes" comment="- Variables example added">
-      <change afterPath="$PROJECT_DIR$/type_casting.py" afterDir="false" />
+    <list default="true" id="919eb399-2a42-4291-9307-f0b36d757935" name="Changes" comment="- Typecasting example added">
+      <change afterPath="$PROJECT_DIR$/input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rectangle_area_calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping_cart_prog.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,8 +55,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.input.executor": "Run",
     "Python.main.executor": "Run",
     "Python.print_comment.executor": "Run",
+    "Python.rectangle_area_calc.executor": "Run",
+    "Python.shopping_cart_prog.executor": "Run",
     "Python.type_casting.executor": "Run",
     "Python.veriables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -111,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729964745883</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="- Typecasting example added">
+      <option name="closed" value="true" />
+      <created>1730057700678</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730057700678</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +143,7 @@
     <MESSAGE value="- Minor changes" />
     <MESSAGE value="- GitHub commit and push check" />
     <MESSAGE value="- Variables example added" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Variables example added" />
+    <MESSAGE value="- Typecasting example added" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Typecasting example added" />
   </component>
 </project>
