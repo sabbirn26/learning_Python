@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="919eb399-2a42-4291-9307-f0b36d757935" name="Changes" comment="- built in math functions">
-      <change afterPath="$PROJECT_DIR$/math_class_cons&amp;func.py" afterDir="false" />
+    <list default="true" id="919eb399-2a42-4291-9307-f0b36d757935" name="Changes" comment="- updated floor function">
+      <change afterPath="$PROJECT_DIR$/circle_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circle_circumference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/triangle_hypotenuse .py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +56,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.arithmetic_operators_and_math_function.executor": "Run",
+    "Python.circle_area.executor": "Run",
+    "Python.circle_prob.executor": "Run",
+    "Python.cirle_problem.executor": "Run",
     "Python.input.executor": "Run",
     "Python.madlibs_game.executor": "Run",
     "Python.main.executor": "Run",
@@ -158,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730739045381</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="- updated floor function">
+      <option name="closed" value="true" />
+      <created>1733255635038</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1733255635038</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,6 +195,7 @@
     <MESSAGE value="- madlibs game exc" />
     <MESSAGE value="- some arithmetic operators&#10;- augmented assignment operators" />
     <MESSAGE value="- built in math functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="- built in math functions" />
+    <MESSAGE value="- updated floor function" />
+    <option name="LAST_COMMIT_MESSAGE" value="- updated floor function" />
   </component>
 </project>
