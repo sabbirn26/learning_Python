@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="919eb399-2a42-4291-9307-f0b36d757935" name="Changes" comment="- updated floor function">
-      <change afterPath="$PROJECT_DIR$/circle_area.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circle_circumference.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle_hypotenuse .py" afterDir="false" />
+    <list default="true" id="919eb399-2a42-4291-9307-f0b36d757935" name="Changes" comment="-triangle hypotenuse problem">
+      <change afterPath="$PROJECT_DIR$/if_statment.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +57,7 @@
     "Python.circle_area.executor": "Run",
     "Python.circle_prob.executor": "Run",
     "Python.cirle_problem.executor": "Run",
+    "Python.if_statment.executor": "Run",
     "Python.input.executor": "Run",
     "Python.madlibs_game.executor": "Run",
     "Python.main.executor": "Run",
@@ -171,7 +170,31 @@
       <option name="project" value="LOCAL" />
       <updated>1733255635038</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="- circle area problem">
+      <option name="closed" value="true" />
+      <created>1733256625450</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1733256625450</updated>
+    </task>
+    <task id="LOCAL-00012" summary="- circle circumference problem">
+      <option name="closed" value="true" />
+      <created>1733256642853</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1733256642853</updated>
+    </task>
+    <task id="LOCAL-00013" summary="-triangle hypotenuse problem">
+      <option name="closed" value="true" />
+      <created>1733256676000</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1733256676000</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,6 +219,9 @@
     <MESSAGE value="- some arithmetic operators&#10;- augmented assignment operators" />
     <MESSAGE value="- built in math functions" />
     <MESSAGE value="- updated floor function" />
-    <option name="LAST_COMMIT_MESSAGE" value="- updated floor function" />
+    <MESSAGE value="- circle area problem" />
+    <MESSAGE value="- circle circumference problem" />
+    <MESSAGE value="-triangle hypotenuse problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="-triangle hypotenuse problem" />
   </component>
 </project>
