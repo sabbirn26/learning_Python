@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="919eb399-2a42-4291-9307-f0b36d757935" name="Changes" comment="-triangle hypotenuse problem">
-      <change afterPath="$PROJECT_DIR$/if_statment.py" afterDir="false" />
+    <list default="true" id="919eb399-2a42-4291-9307-f0b36d757935" name="Changes" comment="-if and elif with some examples">
+      <change afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.arithmetic_operators_and_math_function.executor": "Run",
+    "Python.calculator.executor": "Run",
     "Python.circle_area.executor": "Run",
     "Python.circle_prob.executor": "Run",
     "Python.cirle_problem.executor": "Run",
@@ -194,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733256676000</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="-if and elif with some examples">
+      <option name="closed" value="true" />
+      <created>1736965877162</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1736965877162</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -222,6 +231,7 @@
     <MESSAGE value="- circle area problem" />
     <MESSAGE value="- circle circumference problem" />
     <MESSAGE value="-triangle hypotenuse problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="-triangle hypotenuse problem" />
+    <MESSAGE value="-if and elif with some examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="-if and elif with some examples" />
   </component>
 </project>
