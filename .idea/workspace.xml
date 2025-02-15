@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="919eb399-2a42-4291-9307-f0b36d757935" name="Changes" comment="-created a weight converter using if elif else.">
-      <change afterPath="$PROJECT_DIR$/temp_converter.py" afterDir="false" />
+    <list default="true" id="919eb399-2a42-4291-9307-f0b36d757935" name="Changes" comment="-created a temperature converter using if elif else.">
+      <change afterPath="$PROJECT_DIR$/logical_operators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,31 +51,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.arithmetic_operators_and_math_function.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.circle_area.executor&quot;: &quot;Run&quot;,
-    &quot;Python.circle_prob.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cirle_problem.executor&quot;: &quot;Run&quot;,
-    &quot;Python.if_statment.executor&quot;: &quot;Run&quot;,
-    &quot;Python.input.executor&quot;: &quot;Run&quot;,
-    &quot;Python.madlibs_game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.math_class_cons&amp;func.executor&quot;: &quot;Run&quot;,
-    &quot;Python.math_functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_comment.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rectangle_area_calc.executor&quot;: &quot;Run&quot;,
-    &quot;Python.shopping_cart_prog.executor&quot;: &quot;Run&quot;,
-    &quot;Python.type_casting.executor&quot;: &quot;Run&quot;,
-    &quot;Python.veriables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.weight_converter.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.arithmetic_operators_and_math_function.executor": "Run",
+    "Python.calculator.executor": "Run",
+    "Python.circle_area.executor": "Run",
+    "Python.circle_prob.executor": "Run",
+    "Python.cirle_problem.executor": "Run",
+    "Python.if_statment.executor": "Run",
+    "Python.input.executor": "Run",
+    "Python.logical_operators.executor": "Run",
+    "Python.madlibs_game.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.math_class_cons&func.executor": "Run",
+    "Python.math_functions.executor": "Run",
+    "Python.print_comment.executor": "Run",
+    "Python.rectangle_area_calc.executor": "Run",
+    "Python.shopping_cart_prog.executor": "Run",
+    "Python.temp_converter.executor": "Run",
+    "Python.type_casting.executor": "Run",
+    "Python.veriables.executor": "Run",
+    "Python.weight_converter.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -220,7 +222,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738948877946</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="-created a temperature converter using if elif else.">
+      <option name="closed" value="true" />
+      <created>1739036475935</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1739036475935</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -251,6 +261,7 @@
     <MESSAGE value="-if and elif with some examples" />
     <MESSAGE value="-created a simple calculator using if elif else." />
     <MESSAGE value="-created a weight converter using if elif else." />
-    <option name="LAST_COMMIT_MESSAGE" value="-created a weight converter using if elif else." />
+    <MESSAGE value="-created a temperature converter using if elif else." />
+    <option name="LAST_COMMIT_MESSAGE" value="-created a temperature converter using if elif else." />
   </component>
 </project>
