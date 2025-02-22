@@ -15,6 +15,7 @@ temp2 = 30
 is_sunny = True
 
 if temp2 >= 28 and is_sunny:
+
     print("It is HOT outside!")
     print("It is Sunny outside!")
 elif temp2 <= 0 and is_sunny:
