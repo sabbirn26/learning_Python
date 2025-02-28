@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="919eb399-2a42-4291-9307-f0b36d757935" name="Changes" comment="-added logical operators">
-      <change afterPath="$PROJECT_DIR$/conditional_expression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="919eb399-2a42-4291-9307-f0b36d757935" name="Changes" comment="-added conditional expression" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -239,7 +236,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739628003180</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="-added conditional expression">
+      <option name="closed" value="true" />
+      <created>1740505165538</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1740505165538</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -272,6 +277,7 @@
     <MESSAGE value="-created a weight converter using if elif else." />
     <MESSAGE value="-created a temperature converter using if elif else." />
     <MESSAGE value="-added logical operators" />
-    <option name="LAST_COMMIT_MESSAGE" value="-added logical operators" />
+    <MESSAGE value="-added conditional expression" />
+    <option name="LAST_COMMIT_MESSAGE" value="-added conditional expression" />
   </component>
 </project>

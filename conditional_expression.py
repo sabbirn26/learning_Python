@@ -11,10 +11,8 @@ print(result)
 
 a = 6
 b = 7
-
 max_num = "a is the bigger number!" if a > b else "b is the bigger number!"
 min_num = "a is the small number!" if a < b else "b is the small number!"
-
 print(max_num)
 print(min_num)
 
